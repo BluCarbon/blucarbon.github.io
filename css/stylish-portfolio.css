@@ -47,6 +47,7 @@ address {
     border-radius: 0;
     color: #fff;
     background-color: rgba(0,0,0,0.4);
+
 }
 
 .btn-dark:hover,
@@ -55,6 +56,20 @@ address {
     color: #fff;
     background-color: rgba(0,0,0,0.7);
 }
+
+.btn-action {
+    border-radius: 0;
+    color: #fff;
+    background-color: #b73338;
+}
+
+.btn-action:hover,
+.btn-action:focus,
+.btn-action:active {
+    color: #fff;
+    background-color: #d46367;
+}
+
 
 .btn-light {
     border-radius: 0;
