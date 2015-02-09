@@ -129,7 +129,7 @@ hr.small {
 .sidebar-nav li a {
     display: block;
     text-decoration: none;
-    color: #999;
+    color: #fff;
 }
 
 .sidebar-nav li a:hover {
@@ -150,7 +150,7 @@ hr.small {
 }
 
 .sidebar-nav > .sidebar-brand a {
-    color: #999;
+    color: #fff;
 }
 
 .sidebar-nav > .sidebar-brand a:hover {
